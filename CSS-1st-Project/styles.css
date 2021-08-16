@@ -1,0 +1,24 @@
+/*********************************Tag Selector*****************************/
+h1{
+    color: red;
+}
+p{
+    color: yellowgreen;
+}
+img:hover{
+    background-color: plum;
+}
+/*********************************Class Selector*****************************/
+.bacon{
+    background-color: red;
+}
+.broccoli{
+    background-color: seagreen;
+}
+.circular{
+    border-radius: 100%;
+}
+/*********************************Id Selector*****************************/
+#heading{
+    color: palevioletred;
+}
